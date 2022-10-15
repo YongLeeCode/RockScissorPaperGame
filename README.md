@@ -13,9 +13,11 @@ This program is for module #2 of CSE 310 class.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code
 
-{Describe the programming language that you used and any libraries.}
+Java
+
+Github
 
 # Useful Websites
 
@@ -23,7 +25,5 @@ This program is for module #2 of CSE 310 class.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Making hands shape.
+* (User can know who won the game easily even though there is a few words)
