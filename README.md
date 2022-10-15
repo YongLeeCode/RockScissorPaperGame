@@ -9,7 +9,7 @@ This program is for module #2 of CSE 310 class.
 
 # My Youtube link
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Youtube](https://youtu.be/DYwvm_2QxfI)
 
 # Development Environment
 
@@ -17,7 +17,7 @@ Visual Studio Code
 
 Java
 
-Github
+[Github](https://github.com/YongLeeCode/RockScissorPaperGame)
 
 # Useful Websites
 
